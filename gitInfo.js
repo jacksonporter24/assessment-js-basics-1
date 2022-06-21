@@ -17,7 +17,7 @@ let gitDefinition = "Git is a program that keeps track of the changes and progre
     It should be a string containing your best definition of what GitHub is.
 */
 
-let gitHubDefinition = "GitHub is the onloine version of Git that contains the code programmers have pushed from their own git."
+let gitHubDefinition = "GitHub is the online version of Git that contains the code programmers have pushed from their own git."
 
 //////////////////PROBLEM 3////////////////////
 /*
